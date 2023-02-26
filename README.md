@@ -19,7 +19,7 @@
   </a>
 </div>
 
-### ![Swift](https://img.shields.io/badge/SWIFT-white?style=for-the-badge&logo=swift&logoColor=red) ![UIkit](https://img.shields.io/badge/UIKit-cyan?style=for-the-badge&logo=uikit&logoColor=white) ![XCode](https://img.shields.io/badge/XCode-282828?style=for-the-badge&logo=xcode&logoColor=59A6F0) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   
+### ![Swift](https://img.shields.io/badge/SWIFT-white?style=for-the-badge&logo=swift&logoColor=red) ![UIkit](https://img.shields.io/badge/UIKit-cyan?style=for-the-badge&logo=uikit&logoColor=white) ![XCode](https://img.shields.io/badge/XCode-282828?style=for-the-badge&logo=xcode&logoColor=59A6F0) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white)
   
 ---
 
