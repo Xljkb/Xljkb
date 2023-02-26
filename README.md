@@ -8,4 +8,6 @@
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
 </div>
 
+---
+### :hammer_and_wrench: Languages and Tools :
 ### ![Swift](https://img.shields.io/badge/SWIFT-white?style=for-the-badge&logo=swift&logoColor=red)
