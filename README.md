@@ -22,6 +22,28 @@
 ### ![Swift](https://img.shields.io/badge/SWIFT-white?style=for-the-badge&logo=swift&logoColor=red) ![UIkit](https://img.shields.io/badge/UIKit-cyan?style=for-the-badge&logo=uikit&logoColor=white) ![XCode](https://img.shields.io/badge/XCode-282828?style=for-the-badge&logo=xcode&logoColor=59A6F0) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Numpy](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=4CABCF) ![PyCharm](https://img.shields.io/badge/pycharm-7FEA83?style=for-the-badge&logo=pycharm&logoColor=282828) ![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black) ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=red) ![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=30A8FF)
   
 ---
+  
+<div align="center">
+ <img src="https://media.giphy.com/media/bzoD9WOiU1wAg/giphy.gif" width="500" height="260"/>
+</div>
+  
+---
+
+### About me :
+  
+<div id="badges" align="center">
+ <h3>
+  I'm Boris Petrosyan. Swift and Python developer
+ <h3> 
+  <a href="https://t.me/boringbor">
+   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.com/jborr">
+   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>  
+  
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
