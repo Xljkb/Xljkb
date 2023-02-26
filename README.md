@@ -19,7 +19,7 @@
   </a>
 </div>
 
-### ![Swift](https://img.shields.io/badge/SWIFT-white?style=for-the-badge&logo=swift&logoColor=red) ![UIkit](https://img.shields.io/badge/UIKit-cyan?style=for-the-badge&logo=uikit&logoColor=white) ![XCode](https://img.shields.io/badge/XCode-282828?style=for-the-badge&logo=xcode&logoColor=59A6F0) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Numpy](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=4CABCF) ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=red) ![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=30A8FF)
+### ![Swift](https://img.shields.io/badge/SWIFT-white?style=for-the-badge&logo=swift&logoColor=red) ![UIkit](https://img.shields.io/badge/UIKit-cyan?style=for-the-badge&logo=uikit&logoColor=white) ![XCode](https://img.shields.io/badge/XCode-282828?style=for-the-badge&logo=xcode&logoColor=59A6F0) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Numpy](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=4CABCF) ![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black) ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=red) ![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=30A8FF)
   
 ---
 
