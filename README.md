@@ -29,7 +29,7 @@
 
 ### About me :
 - I'm 20 y.o
-- Living in Russia, Moscow
+- Living in Moscow, Russia
 - Studying at RTU MIREA - Russian Technological Universuty
 - Speaks on 3 languages (for now)
   
