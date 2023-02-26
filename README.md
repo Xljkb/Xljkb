@@ -1,5 +1,7 @@
 <div id="header" align="center">
  <img src="https://i.pinimg.com/originals/78/5b/8f/785b8fd1e06360016a0ad714737b6dac.png" height="236" width="236"/>
+ <b>Hi there 👋</b>
+ <b>I'm Boris Petrosyan, Swift and Python developer</b>
 </div>
 
 ### Hi there 👋
