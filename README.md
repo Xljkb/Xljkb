@@ -1,7 +1,9 @@
 <div id="header" align="center">
  <img src="https://i.pinimg.com/originals/78/5b/8f/785b8fd1e06360016a0ad714737b6dac.png" height="236" width="236"/>
- <b>Hi there 👋</b>
- <b>I'm Boris Petrosyan, Swift and Python developer</b>
+ <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 ### Hi there 👋
