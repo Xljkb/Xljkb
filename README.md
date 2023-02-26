@@ -19,10 +19,11 @@
   </a>
 </div>
 
+### ![Swift](https://img.shields.io/badge/SWIFT-white?style=for-the-badge&logo=swift&logoColor=red) ![UIkit](https://img.shields.io/badge/UIKit-cyan?style=for-the-badge&logo=uikit&logoColor=white) ![XCode](https://img.shields.io/badge/XCode-282828?style=for-the-badge&logo=xcode&logoColor=59A6F0) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-### ![Swift](https://img.shields.io/badge/SWIFT-white?style=for-the-badge&logo=swift&logoColor=red) ![UIkit](https://img.shields.io/badge/UIKit-cyan?style=for-the-badge&logo=uikit&logoColor=white) ![XCode](https://img.shields.io/badge/XCode-282828?style=for-the-badge&logo=xcode&logoColor=59A6F0) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
