@@ -13,7 +13,7 @@
  <h3> 
   
   
-![GitHub Streak](https://streak-stats.demolab.com?user=Xljkb&theme=neon&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xljkb&theme=neon&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
   
   
   <a href="https://t.me/boringbor">
