@@ -10,7 +10,7 @@
 <div id="badges" align="center">
  <h3>
   I'm Boris Petrosyan. Swift and Python developer
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Xljkb)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Xljkb&theme=neon&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
  <h3> 
   <a href="https://t.me/boringbor">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
